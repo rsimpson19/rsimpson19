@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahjeena
-- 👀 I’m interested in being a Web Developer
+- 👀 I’m interested in becoming a Web Developer
 - 🌱 I’m currently learning html,css,bootstrap, javascript and react
 - 💞️ I’m looking to collaborate on new project ideas for beginners 
 - 📫 How to reach me rahjeenasimpson19@gmail.com
